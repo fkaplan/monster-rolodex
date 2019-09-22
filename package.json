@@ -2,7 +2,7 @@
   "name": "monster-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://fkaplan.github.io/monster-rolodex",
+  "homepage": "https://fkaplan.github.io/monsters-rolodex",
   "dependencies": {
     "ag-grid-community": "^21.2.1",
     "ag-grid-react": "^21.2.1",
